@@ -1,3 +1,6 @@
+using BusinessObject;
+using DataAccess.Repository;
+
 namespace SalesWinApp
 {
     public partial class frmLogin : Form
@@ -61,6 +64,17 @@ namespace SalesWinApp
             {
                 MessageBox.Show("Error", "Login", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+
+        }
+
+        private void Cacncelbtn_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void frmLogin_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

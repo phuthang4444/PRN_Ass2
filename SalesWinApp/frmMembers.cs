@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DataAccess.Repository;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,9 +13,15 @@ namespace SalesWinApp
 {
     public partial class frmMembers : Form
     {
+        public IMemberRepository memberRepository { get; set; }
         public frmMembers()
         {
             InitializeComponent();
+        }
+
+        private void frmMembers_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

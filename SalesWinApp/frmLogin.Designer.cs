@@ -31,8 +31,8 @@
             this.Loginlb = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.Usernametxt = new System.Windows.Forms.TextBox();
-            this.Passwordtxt = new System.Windows.Forms.TextBox();
+            this.txtEmail = new System.Windows.Forms.TextBox();
+            this.txtPassword = new System.Windows.Forms.TextBox();
             this.Loginbtn = new System.Windows.Forms.Button();
             this.Cacncelbtn = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -54,9 +54,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(96, 135);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(75, 20);
+            this.label1.Size = new System.Drawing.Size(46, 20);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Username";
+            this.label1.Text = "Email";
             // 
             // label2
             // 
@@ -67,19 +67,19 @@
             this.label2.TabIndex = 2;
             this.label2.Text = "Password";
             // 
-            // Usernametxt
+            // txtEmail
             // 
-            this.Usernametxt.Location = new System.Drawing.Point(237, 132);
-            this.Usernametxt.Name = "Usernametxt";
-            this.Usernametxt.Size = new System.Drawing.Size(248, 27);
-            this.Usernametxt.TabIndex = 3;
+            this.txtEmail.Location = new System.Drawing.Point(237, 132);
+            this.txtEmail.Name = "txtEmail";
+            this.txtEmail.Size = new System.Drawing.Size(248, 27);
+            this.txtEmail.TabIndex = 3;
             // 
-            // Passwordtxt
+            // txtPassword
             // 
-            this.Passwordtxt.Location = new System.Drawing.Point(237, 218);
-            this.Passwordtxt.Name = "Passwordtxt";
-            this.Passwordtxt.Size = new System.Drawing.Size(248, 27);
-            this.Passwordtxt.TabIndex = 4;
+            this.txtPassword.Location = new System.Drawing.Point(237, 218);
+            this.txtPassword.Name = "txtPassword";
+            this.txtPassword.Size = new System.Drawing.Size(248, 27);
+            this.txtPassword.TabIndex = 4;
             // 
             // Loginbtn
             // 
@@ -99,6 +99,7 @@
             this.Cacncelbtn.TabIndex = 6;
             this.Cacncelbtn.Text = "Cancel";
             this.Cacncelbtn.UseVisualStyleBackColor = true;
+            this.Cacncelbtn.Click += new System.EventHandler(this.Cacncelbtn_Click);
             // 
             // frmLogin
             // 
@@ -107,13 +108,14 @@
             this.ClientSize = new System.Drawing.Size(698, 450);
             this.Controls.Add(this.Cacncelbtn);
             this.Controls.Add(this.Loginbtn);
-            this.Controls.Add(this.Passwordtxt);
-            this.Controls.Add(this.Usernametxt);
+            this.Controls.Add(this.txtPassword);
+            this.Controls.Add(this.txtEmail);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.Loginlb);
             this.Name = "frmLogin";
             this.Text = "frmLogin";
+            this.Load += new System.EventHandler(this.frmLogin_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -124,8 +126,8 @@
         private Label Loginlb;
         private Label label1;
         private Label label2;
-        private TextBox Usernametxt;
-        private TextBox Passwordtxt;
+        private TextBox txtEmail;
+        private TextBox txtPassword;
         private Button Loginbtn;
         private Button Cacncelbtn;
     }
