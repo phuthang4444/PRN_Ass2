@@ -42,7 +42,7 @@
             this.Loginlb.AutoSize = true;
             this.Loginlb.Font = new System.Drawing.Font("Segoe UI Historic", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Loginlb.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.Loginlb.Location = new System.Drawing.Point(287, 43);
+            this.Loginlb.Location = new System.Drawing.Point(137, 36);
             this.Loginlb.Name = "Loginlb";
             this.Loginlb.Size = new System.Drawing.Size(145, 54);
             this.Loginlb.TabIndex = 0;
@@ -52,7 +52,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(96, 135);
+            this.label1.Location = new System.Drawing.Point(35, 139);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(46, 20);
             this.label1.TabIndex = 1;
@@ -61,7 +61,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(96, 221);
+            this.label2.Location = new System.Drawing.Point(35, 202);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(70, 20);
             this.label2.TabIndex = 2;
@@ -69,21 +69,21 @@
             // 
             // txtEmail
             // 
-            this.txtEmail.Location = new System.Drawing.Point(237, 132);
+            this.txtEmail.Location = new System.Drawing.Point(118, 132);
             this.txtEmail.Name = "txtEmail";
             this.txtEmail.Size = new System.Drawing.Size(248, 27);
             this.txtEmail.TabIndex = 3;
             // 
             // txtPassword
             // 
-            this.txtPassword.Location = new System.Drawing.Point(237, 218);
+            this.txtPassword.Location = new System.Drawing.Point(118, 195);
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.Size = new System.Drawing.Size(248, 27);
             this.txtPassword.TabIndex = 4;
             // 
             // Loginbtn
             // 
-            this.Loginbtn.Location = new System.Drawing.Point(153, 319);
+            this.Loginbtn.Location = new System.Drawing.Point(62, 267);
             this.Loginbtn.Name = "Loginbtn";
             this.Loginbtn.Size = new System.Drawing.Size(94, 29);
             this.Loginbtn.TabIndex = 5;
@@ -93,7 +93,7 @@
             // 
             // Cacncelbtn
             // 
-            this.Cacncelbtn.Location = new System.Drawing.Point(454, 319);
+            this.Cacncelbtn.Location = new System.Drawing.Point(252, 267);
             this.Cacncelbtn.Name = "Cacncelbtn";
             this.Cacncelbtn.Size = new System.Drawing.Size(94, 29);
             this.Cacncelbtn.TabIndex = 6;
@@ -105,7 +105,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(698, 450);
+            this.ClientSize = new System.Drawing.Size(415, 327);
             this.Controls.Add(this.Cacncelbtn);
             this.Controls.Add(this.Loginbtn);
             this.Controls.Add(this.txtPassword);
