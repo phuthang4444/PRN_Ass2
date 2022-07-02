@@ -105,7 +105,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(415, 327);
+            this.ClientSize = new System.Drawing.Size(444, 324);
             this.Controls.Add(this.Cacncelbtn);
             this.Controls.Add(this.Loginbtn);
             this.Controls.Add(this.txtPassword);
@@ -114,6 +114,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.Loginlb);
             this.Name = "frmLogin";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmLogin";
             this.Load += new System.EventHandler(this.frmLogin_Load);
             this.ResumeLayout(false);
