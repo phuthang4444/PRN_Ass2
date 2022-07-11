@@ -140,5 +140,15 @@ namespace SalesWinApp
         {
             frmOrders = null;
         }
+
+        private void tsMembers_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tsProducts_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -1,0 +1,5 @@
+E:\SWP\GitHub\SWP\PRN_Ass2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+E:\SWP\GitHub\SWP\PRN_Ass2\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\SWP\GitHub\SWP\PRN_Ass2\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+E:\SWP\GitHub\SWP\PRN_Ass2\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+E:\SWP\GitHub\SWP\PRN_Ass2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache

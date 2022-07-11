@@ -1,0 +1,12 @@
+E:\SWP\GitHub\SWP\PRN_Ass2\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.AssemblyReference.cache
+E:\SWP\GitHub\SWP\PRN_Ass2\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmLogin.resources
+E:\SWP\GitHub\SWP\PRN_Ass2\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmMain.resources
+E:\SWP\GitHub\SWP\PRN_Ass2\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmMemberDetails.resources
+E:\SWP\GitHub\SWP\PRN_Ass2\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmMembers.resources
+E:\SWP\GitHub\SWP\PRN_Ass2\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmOrders.resources
+E:\SWP\GitHub\SWP\PRN_Ass2\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmProducts.resources
+E:\SWP\GitHub\SWP\PRN_Ass2\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.GenerateResource.cache
+E:\SWP\GitHub\SWP\PRN_Ass2\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SWP\GitHub\SWP\PRN_Ass2\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.AssemblyInfoInputs.cache
+E:\SWP\GitHub\SWP\PRN_Ass2\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.AssemblyInfo.cs
+E:\SWP\GitHub\SWP\PRN_Ass2\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.CoreCompileInputs.cache

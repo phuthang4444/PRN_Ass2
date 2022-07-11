@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\phuth\\OneDrive\\Documents\\GitHub\\PRN_Ass2\\SalesWinApp\\SalesWinApp.csproj": {}
+    "E:\\SWP\\GitHub\\SWP\\PRN_Ass2\\SalesWinApp\\SalesWinApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\phuth\\OneDrive\\Documents\\GitHub\\PRN_Ass2\\BusinessObject\\BusinessObject.csproj": {
+    "E:\\SWP\\GitHub\\SWP\\PRN_Ass2\\BusinessObject\\BusinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phuth\\OneDrive\\Documents\\GitHub\\PRN_Ass2\\BusinessObject\\BusinessObject.csproj",
+        "projectUniqueName": "E:\\SWP\\GitHub\\SWP\\PRN_Ass2\\BusinessObject\\BusinessObject.csproj",
         "projectName": "BusinessObject",
-        "projectPath": "C:\\Users\\phuth\\OneDrive\\Documents\\GitHub\\PRN_Ass2\\BusinessObject\\BusinessObject.csproj",
-        "packagesPath": "C:\\Users\\phuth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phuth\\OneDrive\\Documents\\GitHub\\PRN_Ass2\\BusinessObject\\obj\\",
+        "projectPath": "E:\\SWP\\GitHub\\SWP\\PRN_Ass2\\BusinessObject\\BusinessObject.csproj",
+        "packagesPath": "C:\\Users\\giahu\\.nuget\\packages\\",
+        "outputPath": "E:\\SWP\\GitHub\\SWP\\PRN_Ass2\\BusinessObject\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\phuth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\giahu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,21 +58,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\phuth\\OneDrive\\Documents\\GitHub\\PRN_Ass2\\DataAccess\\DataAccess.csproj": {
+    "E:\\SWP\\GitHub\\SWP\\PRN_Ass2\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phuth\\OneDrive\\Documents\\GitHub\\PRN_Ass2\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "E:\\SWP\\GitHub\\SWP\\PRN_Ass2\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\phuth\\OneDrive\\Documents\\GitHub\\PRN_Ass2\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\phuth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phuth\\OneDrive\\Documents\\GitHub\\PRN_Ass2\\DataAccess\\obj\\",
+        "projectPath": "E:\\SWP\\GitHub\\SWP\\PRN_Ass2\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\giahu\\.nuget\\packages\\",
+        "outputPath": "E:\\SWP\\GitHub\\SWP\\PRN_Ass2\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\phuth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\giahu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +90,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\phuth\\OneDrive\\Documents\\GitHub\\PRN_Ass2\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "C:\\Users\\phuth\\OneDrive\\Documents\\GitHub\\PRN_Ass2\\BusinessObject\\BusinessObject.csproj"
+              "E:\\SWP\\GitHub\\SWP\\PRN_Ass2\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "E:\\SWP\\GitHub\\SWP\\PRN_Ass2\\BusinessObject\\BusinessObject.csproj"
               }
             }
           }
@@ -126,21 +134,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\phuth\\OneDrive\\Documents\\GitHub\\PRN_Ass2\\SalesWinApp\\SalesWinApp.csproj": {
+    "E:\\SWP\\GitHub\\SWP\\PRN_Ass2\\SalesWinApp\\SalesWinApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phuth\\OneDrive\\Documents\\GitHub\\PRN_Ass2\\SalesWinApp\\SalesWinApp.csproj",
+        "projectUniqueName": "E:\\SWP\\GitHub\\SWP\\PRN_Ass2\\SalesWinApp\\SalesWinApp.csproj",
         "projectName": "SalesWinApp",
-        "projectPath": "C:\\Users\\phuth\\OneDrive\\Documents\\GitHub\\PRN_Ass2\\SalesWinApp\\SalesWinApp.csproj",
-        "packagesPath": "C:\\Users\\phuth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phuth\\OneDrive\\Documents\\GitHub\\PRN_Ass2\\SalesWinApp\\obj\\",
+        "projectPath": "E:\\SWP\\GitHub\\SWP\\PRN_Ass2\\SalesWinApp\\SalesWinApp.csproj",
+        "packagesPath": "C:\\Users\\giahu\\.nuget\\packages\\",
+        "outputPath": "E:\\SWP\\GitHub\\SWP\\PRN_Ass2\\SalesWinApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\phuth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\giahu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -154,8 +166,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\phuth\\OneDrive\\Documents\\GitHub\\PRN_Ass2\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\phuth\\OneDrive\\Documents\\GitHub\\PRN_Ass2\\DataAccess\\DataAccess.csproj"
+              "E:\\SWP\\GitHub\\SWP\\PRN_Ass2\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "E:\\SWP\\GitHub\\SWP\\PRN_Ass2\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -187,7 +199,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
