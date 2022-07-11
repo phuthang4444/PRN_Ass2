@@ -10,7 +10,7 @@ namespace DataAccess.Repository
     public class OrderRepository : IOrderRepository
     {
         public void AddNewOrder(OrderObject Order)
-            => OrderDAO.Instance.AddNew(Order);
+            => OrderDAO.Instance.AddNewOrder(Order);
 
         public OrderObject GetOrderByID(int OrderID)
             => OrderDAO.Instance.GetOrderByID(OrderID);

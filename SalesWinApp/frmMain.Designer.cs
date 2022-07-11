@@ -59,12 +59,14 @@
             this.tsMembers.Name = "tsMembers";
             this.tsMembers.Size = new System.Drawing.Size(85, 24);
             this.tsMembers.Text = "Members";
+            this.tsMembers.Click += new System.EventHandler(this.tsMembers_Click_1);
             // 
             // tsProducts
             // 
             this.tsProducts.Name = "tsProducts";
             this.tsProducts.Size = new System.Drawing.Size(80, 24);
             this.tsProducts.Text = "Products";
+            this.tsProducts.Click += new System.EventHandler(this.tsProducts_Click_1);
             // 
             // tsOrders
             // 
